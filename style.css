@@ -1,0 +1,28 @@
+.img{
+	margin-top: 30px;
+	text-align: center;
+}
+.img img{
+
+}
+img{
+	max-width: 100%
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+.cards{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+#allCards{
+  display: flex;
+}
